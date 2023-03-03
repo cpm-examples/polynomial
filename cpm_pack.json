@@ -1,0 +1,11 @@
+{
+    "name": "polynomial",
+    "version": "0.1.0",
+    "url": "https://github.com/cpm-examples/polynomial",
+    "description": "A C++ library for representing mathematical polynomials",
+    "author": "YassenEfremov",
+    "license": "",
+    "dependencies": {
+        "fraction": "0.1.0"
+    }
+}
